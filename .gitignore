@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules if you use npm later
+node_modules/
+
+# Ignore VS Code settings if you want
+.vscode/
+
+# Ignore environment files (for future backends)
+.env
