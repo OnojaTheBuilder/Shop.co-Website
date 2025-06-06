@@ -1,0 +1,30 @@
+{
+  "name": "shop.co-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnojaTheBuilder/Shop.co-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnojaTheBuilder/Shop.co-Website/issues"
+  },
+  "homepage": "https://github.com/OnojaTheBuilder/Shop.co-Website#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8", 
+    "@tailwindcss/postcss": "^4.1.8", 
+    "vite": "^5.0.0"
+  }
+}
